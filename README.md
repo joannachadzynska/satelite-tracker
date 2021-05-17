@@ -1,1 +1,1 @@
-# satelite-tracker
+# satellite-tracker
